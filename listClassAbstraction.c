@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-//#include "listClassAbstraction.h"
 
 #define MAX_SIZE 10
 
